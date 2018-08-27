@@ -42,12 +42,12 @@ George's Code Along:
 * [Video 2](https://www.youtube.com/watch?v=ogGnQfAzZXE&t=457s)
 * [Video 3](https://www.youtube.com/watch?v=SwZ5yO60gJk)
 * [Video 4](https://www.youtube.com/watch?v=xCgSUprXWwg&t=86s)
-* [Source Code](https://github.com/elewa-academy/Modular-Design/tree/master/02-mvc/MVC_list)
+* [Source Code](https://github.com/elewa-academy/list-refactor-codealong)
 
 Additional Code to Study:
 * [A Progressive Gist](https://gist.github.com/darrenderidder/3325582)
-* [MVC Students](https://github.com/elewa-academy/Modular-Design/tree/master/docs_src/01-mvc/rien-student-mvc)
-* [MVC Bakery](https://github.com/elewa-academy/Modular-Design/tree/master/docs_src/01-mvc/rien-mvc-bakery)
+* [MVC Students](https://github.com/elewa-academy/Modular-Design/tree/master/02-mvc/rien-student-mvc)
+* [MVC Bakery](https://github.com/elewa-academy/Modular-Design/tree/master/02-mvc/rien-mvc-bakery)
 * [joelrojo](https://github.com/joelrojo/Javascript-MVC)
 * Advanced: [Use It](http://todomvc.com/examples/vanillajs/), [Read It](https://github.com/tastejs/todomvc/tree/master/examples/vanillajs)
 
